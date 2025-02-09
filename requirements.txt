@@ -1,0 +1,4 @@
+openai
+moviepy
+elevenlabs
+pytrends
